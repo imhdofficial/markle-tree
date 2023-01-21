@@ -1,0 +1,55 @@
+                                                    /* general Properties start */
+a{
+    text-decoration: none !important;
+}
+/* general Properties start */
+
+
+
+
+                                                    /* HEADER - START */
+.markelTreeLi{
+    list-style: none;
+    margin-left: 48px;
+    align-items: center;
+    color: gray;
+    text-decoration: none;
+}
+
+/* HEADER - END */
+
+
+
+
+
+                                                    /* BANNER - START */
+.markelTreeBanner img{
+    width: 100%;
+}
+/* BANNER - END */
+
+
+
+
+
+                                                    /* Clints - START */
+.mTclientIcons{
+
+}
+/* Clints - START */
+
+
+
+.mTrotate li{
+    list-style: none;
+    margin: 0 20px;
+    color: black;
+}
+
+.mTrotate{
+    width: 600px;
+    position: fixed;
+    top: 480px;
+    left: -258px;
+    transform: rotate(-90deg);
+}
