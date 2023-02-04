@@ -23,8 +23,9 @@ a{
 
 
                                                     /* BANNER - START */
-.markelTreeBanner img{
+.markelTreeBanner iframe{
     width: 100%;
+    height: 600px;
 }
 /* BANNER - END */
 
